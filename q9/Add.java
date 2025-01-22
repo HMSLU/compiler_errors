@@ -7,8 +7,8 @@ public class Add {
         return a + b;
     }
 
-    public static int add(int a, int b) {
-        return a + b + 10;
-    }
+//    public static int add(int a, int b) {
+//        return a + b + 10;
+//    }
 }
 

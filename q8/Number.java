@@ -1,6 +1,7 @@
 public class Number {
     public static void main(String[] args) {
-        int number = "five";
+        String number = "five";
+        System.out.println(number);
     }
 }
 

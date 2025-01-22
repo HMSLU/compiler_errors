@@ -1,6 +1,6 @@
 /*
- * This class calcuates and prints 2+2
- / 
+  This class calcuates and prints 2+2
+ */ 
 public class Sum
 {
    public static void main(String []args)
